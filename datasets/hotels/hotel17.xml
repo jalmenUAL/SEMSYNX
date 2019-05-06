@@ -1,0 +1,14 @@
+<property key="1">
+<name>Maritim</name>
+<star>2</star>
+<type>hostel</type>
+<facility>
+<airport_shuttle>no</airport_shuttle>
+<spa>no</spa>
+<pool>outdoor</pool>
+<restaurant>no</restaurant>
+</facility>
+<district>Princesa</district> 
+<price>60</price>
+<metro>800</metro>
+</property>

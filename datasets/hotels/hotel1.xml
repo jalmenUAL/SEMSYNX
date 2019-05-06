@@ -1,0 +1,14 @@
+<property key="1">
+<name>Tryp</name>
+<star>3</star>
+<type>hotel</type>
+<facility>
+<airport_shuttle>yes</airport_shuttle>
+<spa>no</spa>
+<pool>outdoor</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Chueca</district>
+<price>80</price>
+<metro>500</metro>
+</property>

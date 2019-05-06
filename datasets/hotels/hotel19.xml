@@ -1,0 +1,14 @@
+<property key="1">
+<name>AG</name>
+<star>5</star>
+<type>hotel</type>
+<facility>
+<airport_shuttle>yes</airport_shuttle>
+<spa>yes</spa>
+<pool>outdoor</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Gran Vía</district> 
+<price>300</price>
+<metro>100</metro>
+</property>

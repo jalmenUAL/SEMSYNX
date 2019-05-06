@@ -1,0 +1,109 @@
+<province id='f0_18096' 
+       name='Andalusia'
+       country='f0_385'
+       capital='f0_5182'
+       population='7053043'
+       area='87600'>
+       <city id='f0_5182' 
+         country='f0_385'
+         province='f0_18096'>
+         <name >
+           Sevilla
+         </name>
+         <population  year='94'>
+           714148
+         </population>
+       </city>
+       <city id='f0_5254' 
+         country='f0_385'
+         province='f0_18096'>
+         <name >
+           Almeria
+         </name>
+         <population  year='94'>
+           167361
+         </population>
+       </city>
+       <city id='f0_5259' 
+         country='f0_385'
+         province='f0_18096'
+         longitude='-6.2'
+         latitude='36.3'>
+         <name >
+           Cadiz
+         </name>
+         <population  year='94'>
+           155438
+         </population>
+       </city>
+       <city id='f0_5264' 
+         country='f0_385'
+         province='f0_18096'>
+         <name >
+           Cordoba
+         </name>
+         <population  year='94'>
+           315948
+         </population>
+       </city>
+       <city id='f0_5269' 
+         country='f0_385'
+         province='f0_18096'>
+         <name >
+           Granada
+         </name>
+         <population  year='94'>
+           271180
+         </population>
+       </city>
+       <city id='f0_5274' 
+         country='f0_385'
+         province='f0_18096'>
+         <name >
+           Huelva
+         </name>
+         <population  year='94'>
+           145049
+         </population>
+       </city>
+       <city id='f0_5279' 
+         country='f0_385'
+         province='f0_18096'>
+         <name >
+           Malaga
+         </name>
+         <population  year='94'>
+           531443
+         </population>
+       </city>
+       <city id='f0_5373' 
+         country='f0_385'
+         province='f0_18096'>
+         <name >
+           Jerez de la Frontera
+         </name>
+         <population  year='94'>
+           190390
+         </population>
+       </city>
+       <city id='f0_5446' 
+         country='f0_385'
+         province='f0_18096'>
+         <name >
+           Jaen
+         </name>
+         <population  year='94'>
+           112772
+         </population>
+       </city>
+       <city id='f0_5458' 
+         country='f0_385'
+         province='f0_18096'>
+         <name >
+           Algeciras
+         </name>
+         <population  year='94'>
+           103787
+         </population>
+       </city>
+     </province>

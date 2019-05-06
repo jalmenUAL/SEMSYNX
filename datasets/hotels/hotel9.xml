@@ -1,0 +1,14 @@
+<property key="1">
+<name>NH</name>
+<star>4</star>
+<type>hotel</type>
+<facility>
+<airport_shuttle>no</airport_shuttle>
+<spa>yes</spa>
+<pool>indoor</pool>
+<restaurant>no</restaurant>
+</facility>
+<district>Sol</district> 
+<price>120</price>
+<metro>1000</metro>
+</property>

@@ -1,0 +1,14 @@
+<property key="1">
+<name>Ibis</name>
+<star>4</star>
+<type>hotel</type>
+<facility>
+<airport_shuttle>yes</airport_shuttle>
+<spa>yes</spa>
+<pool>outdoor</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Princesa</district> 
+<price>100</price>
+<metro>100</metro>
+</property>

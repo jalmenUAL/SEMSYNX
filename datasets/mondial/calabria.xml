@@ -1,0 +1,19 @@
+ <province id='f0_17689' 
+       name='Calabria'
+       country='f0_268'
+       capital='f0_3358'
+       population='2080000'
+       area='15080'>
+       <city id='f0_3358' 
+         country='f0_268'
+         province='f0_17689'
+         longitude='16.35'
+         latitude='38.55'>
+         <name >
+           Catanzaro
+         </name>
+         <population  year='90'>
+           103802
+         </population>
+       </city>
+     </province>

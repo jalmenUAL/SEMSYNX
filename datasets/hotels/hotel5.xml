@@ -1,0 +1,14 @@
+<property key="1">
+<name>Marriot</name>
+<star>5</star>
+<type>apartment</type>
+<facility>
+<airport_shuttle>yes</airport_shuttle>
+<spa>yes</spa>
+<pool>yes</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Sol</district> 
+<price>200</price>
+<metro>100</metro>
+</property>

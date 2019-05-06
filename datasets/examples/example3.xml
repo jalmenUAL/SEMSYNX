@@ -1,0 +1,9 @@
+<example>
+<member id="1">
+<familyname> Smith </familyname>
+<firstname>J.</firstname>
+<age>67 years</age>
+<address>767 Fifth Avenue, 3rd Floor</address>
+<city>New York, NY 10153</city>
+</member>
+</example>

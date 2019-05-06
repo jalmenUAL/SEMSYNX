@@ -1,0 +1,12 @@
+<example>
+<member id="1">
+<familyname>Smith</familyname>
+<firstname>John</firstname>
+<age>67</age>
+<address>Fifth avenue</address>
+<city>NY</city>
+<description>John Smith is the writter of many textbooks
+about XML, UML and XQuery. He is the research in chief
+of Stony Brooke University in New York City.</description>
+</member>
+</example>

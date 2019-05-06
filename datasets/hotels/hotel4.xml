@@ -1,0 +1,14 @@
+<property key="1">
+<name>Intercontinental</name>
+<star>2</star>
+<type>hostel</type>
+<facility>
+<airport_shuttle>no</airport_shuttle>
+<spa>no</spa>
+<pool>no</pool>
+<restaurant>no</restaurant>
+</facility>
+<district>Moncloa</district> 
+<price>20</price>
+<metro>1000</metro>
+</property>

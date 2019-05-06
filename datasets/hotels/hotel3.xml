@@ -1,0 +1,14 @@
+<property key="1">
+<name>Hilton</name>
+<star>3</star>
+<type>hotel</type>
+<facility>
+<airport_shuttle>yes</airport_shuttle>
+<spa>yes</spa>
+<pool>indoor</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Sol</district>
+<price>100</price>
+<metro>300</metro>
+</property>

@@ -1,0 +1,14 @@
+<property key="1">
+<name>MGM</name>
+<star>5</star>
+<type>hotel</type>
+<facility>
+<airport_shuttle>yes</airport_shuttle>
+<spa>yes</spa>
+<pool>indoor</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Callao</district> 
+<price>280</price>
+<metro>500</metro>
+</property>

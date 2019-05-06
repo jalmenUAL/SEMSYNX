@@ -1,0 +1,14 @@
+<property key="1">
+<name>Red Lion</name>
+<star>2</star>
+<type>hostel</type>
+<facility>
+<airport_shuttle>no</airport_shuttle>
+<spa>no</spa>
+<pool>no</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Princesa</district> 
+<price>50</price>
+<metro>800</metro>
+</property>

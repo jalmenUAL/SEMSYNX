@@ -1,0 +1,14 @@
+<property key="1">
+<name>Accor</name>
+<star>3</star>
+<type>hotel</type>
+<facility>
+<airport_shuttle>no</airport_shuttle>
+<spa>yes</spa>
+<pool>no</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Plaza Mayor</district> 
+<price>80</price>
+<metro>100</metro>
+</property>

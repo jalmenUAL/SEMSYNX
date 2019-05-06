@@ -1,0 +1,14 @@
+<property key="1">
+<name>Best Western</name>
+<star>4</star>
+<type>hostel</type>
+<facility>
+<airport_shuttle>yes</airport_shuttle>
+<spa>no</spa>
+<pool>outdoor</pool>
+<restaurant>no</restaurant>
+</facility>
+<district>Plaza España</district> 
+<price>180</price>
+<metro>300</metro>
+</property>

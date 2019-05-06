@@ -1,0 +1,14 @@
+<property key="1">
+<name>Tokyu</name>
+<star>2</star>
+<type>hostel</type>
+<facility>
+<airport_shuttle>yes</airport_shuttle>
+<spa>yes</spa>
+<pool>no</pool>
+<restaurant>no</restaurant>
+</facility>
+<district>Callao</district> 
+<price>80</price>
+<metro>1000</metro>
+</property>

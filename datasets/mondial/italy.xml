@@ -1,0 +1,730 @@
+<country id='f0_268' 
+     name='Italy'
+     capital='f0_1544'
+     population='57460272'
+     datacode='IT'
+     total_area='301230'
+     population_growth='0.13'
+     infant_mortality='6.9'
+     gdp_agri='2.9'
+     gdp_total='1088600'
+     inflation='5.4'
+     indep_date='17 03 1861'
+     government='republic'
+     gdp_ind='31.6'
+     gdp_serv='65.5'
+     car_code='I'>
+     <name >
+       Italy
+     </name>
+     <city id='f0_3202' 
+       country='f0_268'>
+       <name >
+         Novara
+       </name>
+       <population  year='90'>
+         103349
+       </population>
+     </city>
+     <city id='f0_3207' 
+       country='f0_268'>
+       <name >
+         Bergamo
+       </name>
+       <population  year='90'>
+         117886
+       </population>
+     </city>
+     <city id='f0_3212' 
+       country='f0_268'>
+       <name >
+         Brescia
+       </name>
+       <population  year='90'>
+         196766
+       </population>
+     </city>
+     <city id='f0_3228' 
+       country='f0_268'>
+       <name >
+         Padova
+       </name>
+       <population  year='90'>
+         218186
+       </population>
+     </city>
+     <city id='f0_3233' 
+       country='f0_268'>
+       <name >
+         Verona
+       </name>
+       <population  year='90'>
+         258946
+       </population>
+     </city>
+     <city id='f0_3238' 
+       country='f0_268'>
+       <name >
+         Vicenza
+       </name>
+       <population  year='90'>
+         109333
+       </population>
+     </city>
+     <city id='f0_3249' 
+       country='f0_268'>
+       <name >
+         La Spezia
+       </name>
+       <population  year='90'>
+         103008
+       </population>
+     </city>
+     <city id='f0_3260' 
+       country='f0_268'>
+       <name >
+         Ferrara
+       </name>
+       <population  year='90'>
+         140600
+       </population>
+     </city>
+     <city id='f0_3265' 
+       country='f0_268'>
+       <name >
+         Forli
+       </name>
+       <population  year='90'>
+         109755
+       </population>
+     </city>
+     <city id='f0_3270' 
+       country='f0_268'>
+       <name >
+         Modena
+       </name>
+       <population  year='90'>
+         177501
+       </population>
+     </city>
+     <city id='f0_3275' 
+       country='f0_268'>
+       <name >
+         Parma
+       </name>
+       <population  year='90'>
+         173991
+       </population>
+     </city>
+     <city id='f0_3280' 
+       country='f0_268'>
+       <name >
+         Piacenza
+       </name>
+       <population  year='90'>
+         103536
+       </population>
+     </city>
+     <city id='f0_3285' 
+       country='f0_268'>
+       <name >
+         Ravenna
+       </name>
+       <population  year='90'>
+         136724
+       </population>
+     </city>
+     <city id='f0_3290' 
+       country='f0_268'>
+       <name >
+         Reggio nellEmilia
+       </name>
+       <population  year='90'>
+         131880
+       </population>
+     </city>
+     <city id='f0_3295' 
+       country='f0_268'>
+       <name >
+         Livorno
+       </name>
+       <population  year='90'>
+         171265
+       </population>
+     </city>
+     <city id='f0_3300' 
+       country='f0_268'>
+       <name >
+         Pisa
+       </name>
+       <population  year='90'>
+         101500
+       </population>
+     </city>
+     <city id='f0_3311' 
+       country='f0_268'>
+       <name >
+         Terni
+       </name>
+       <population  year='90'>
+         109809
+       </population>
+     </city>
+     <city id='f0_3322' 
+       country='f0_268'>
+       <name >
+         Latina
+       </name>
+       <population  year='90'>
+         103630
+       </population>
+     </city>
+     <city id='f0_3327' 
+       country='f0_268'>
+       <name >
+         Pescara
+       </name>
+       <population  year='90'>
+         128553
+       </population>
+     </city>
+     <city id='f0_3332' 
+       country='f0_268'>
+       <name >
+         Salerno
+       </name>
+       <population  year='90'>
+         151374
+       </population>
+     </city>
+     <city id='f0_3343' 
+       country='f0_268'>
+       <name >
+         Foggia
+       </name>
+       <population  year='90'>
+         159541
+       </population>
+     </city>
+     <city id='f0_3348' 
+       country='f0_268'>
+       <name >
+         Lecce
+       </name>
+       <population  year='90'>
+         102344
+       </population>
+     </city>
+     <city id='f0_3353' 
+       country='f0_268'>
+       <name >
+         Taranto
+       </name>
+       <population  year='90'>
+         244033
+       </population>
+     </city>
+     <city id='f0_3364' 
+       country='f0_268'>
+       <name >
+         Cosenza
+       </name>
+       <population  year='90'>
+         104483
+       </population>
+     </city>
+     <city id='f0_3375' 
+       country='f0_268'>
+       <name >
+         Catania
+       </name>
+       <population  year='90'>
+         364176
+       </population>
+     </city>
+     <city id='f0_3380' 
+       country='f0_268'>
+       <name >
+         Messina
+       </name>
+       <population  year='90'>
+         274846
+       </population>
+     </city>
+     <city id='f0_3385' 
+       country='f0_268'>
+       <name >
+         Siracusa
+       </name>
+       <population  year='90'>
+         125444
+       </population>
+     </city>
+     <city id='f0_3396' 
+       country='f0_268'>
+       <name >
+         Sassari
+       </name>
+       <population  year='90'>
+         120011
+       </population>
+     </city>
+     <city id='f0_3449' 
+       country='f0_268'>
+       <name >
+         Reggio di Calabria
+       </name>
+       <population  year='90'>
+         178496
+       </population>
+     </city>
+     <city id='f0_3454' 
+       country='f0_268'>
+       <name >
+         Prato
+       </name>
+       <population  year='90'>
+         166688
+       </population>
+     </city>
+     <city id='f0_3459' 
+       country='f0_268'>
+       <name >
+         Rimini
+       </name>
+       <population  year='90'>
+         130896
+       </population>
+     </city>
+     <city id='f0_3464' 
+       country='f0_268'>
+       <name >
+         Monza
+       </name>
+       <population  year='90'>
+         123188
+       </population>
+     </city>
+     <city id='f0_3469' 
+       country='f0_268'>
+       <name >
+         Torre del Greco
+       </name>
+       <population  year='90'>
+         102647
+       </population>
+     </city>
+     <province id='f0_17655' 
+       name='Piemonte'
+       country='f0_268'
+       capital='f0_3417'
+       population='4307000'
+       area='25399'>
+       <city id='f0_3417' 
+         country='f0_268'
+         province='f0_17655'
+         longitude='7.39'
+         latitude='45.5'>
+         <name >
+           Torino
+         </name>
+         <name >
+           Turin
+         </name>
+         <population  year='90'>
+           991870
+         </population>
+       </city>
+     </province>
+     <province id='f0_17657' 
+       name='Valle dAosta'
+       country='f0_268'
+       capital='f0_3474'
+       population='118000'
+       area='3262'>
+       <city id='f0_3474' 
+         country='f0_268'
+         province='f0_17657'
+         longitude='7.22'
+         latitude='45.45'>
+         <name >
+           Aosta
+         </name>
+       </city>
+     </province>
+     <province id='f0_17659' 
+       name='Lombardia'
+       country='f0_268'
+       capital='f0_3401'
+       population='8901000'
+       area='23857'>
+       <city id='f0_3401' 
+         country='f0_268'
+         province='f0_17659'
+         longitude='9.28333'
+         latitude='45.45'>
+         <name >
+           Milano
+         </name>
+         <name >
+           Milan
+         </name>
+         <population  year='90'>
+           1432184
+         </population>
+       </city>
+     </province>
+     <province id='f0_17661' 
+       name='Trentino Alto Adige'
+       country='f0_268'
+       capital='f0_3217'
+       population='904000'
+       area='13618'>
+       <city id='f0_3217' 
+         country='f0_268'
+         province='f0_17661'
+         longitude='11.5'
+         latitude='46'>
+         <name >
+           Bolzano
+         </name>
+         <population  year='90'>
+           100380
+         </population>
+       </city>
+       <city id='f0_3223' 
+         country='f0_268'
+         province='f0_17661'
+         longitude='11.5'
+         latitude='46'>
+         <name >
+           Trento
+         </name>
+         <population  year='90'>
+           102124
+         </population>
+       </city>
+     </province>
+     <province id='f0_17663' 
+       name='Veneto'
+       country='f0_268'
+       capital='f0_3441'
+       population='4415000'
+       area='18364'>
+       <city id='f0_3441' 
+         country='f0_268'
+         province='f0_17663'
+         longitude='12.2'
+         latitude='45.27'>
+         <name >
+           Venezia
+         </name>
+         <name >
+           Venice
+         </name>
+         <population  year='90'>
+           317837
+         </population>
+       </city>
+     </province>
+     <province id='f0_17665' 
+       name='Friuli Venezia Giulia'
+       country='f0_268'
+       capital='f0_3243'
+       population='1193000'
+       area='7845'>
+       <city id='f0_3243' 
+         country='f0_268'
+         province='f0_17665'
+         longitude='13.45'
+         latitude='45.39'>
+         <name >
+           Trieste
+         </name>
+         <population  year='90'>
+           231047
+         </population>
+       </city>
+     </province>
+     <province id='f0_17667' 
+       name='Liguria'
+       country='f0_268'
+       capital='f0_3425'
+       population='1663000'
+       area='5418'>
+       <city id='f0_3425' 
+         country='f0_268'
+         province='f0_17667'
+         longitude='8.58'
+         latitude='44.25'>
+         <name >
+           Genova
+         </name>
+         <name >
+           Genua
+         </name>
+         <population  year='90'>
+           701032
+         </population>
+       </city>
+     </province>
+     <province id='f0_17669' 
+       name='Emilia Romagna'
+       country='f0_268'
+       capital='f0_3254'
+       population='3924000'
+       area='22123'>
+       <city id='f0_3254' 
+         country='f0_268'
+         province='f0_17669'
+         longitude='11.22'
+         latitude='44.3'>
+         <name >
+           Bologna
+         </name>
+         <population  year='90'>
+           411803
+         </population>
+       </city>
+     </province>
+     <province id='f0_17671' 
+       name='Toscana'
+       country='f0_268'
+       capital='f0_3433'
+       population='3528000'
+       area='22992'>
+       <city id='f0_3433' 
+         country='f0_268'
+         province='f0_17671'
+         longitude='11.17'
+         latitude='43.48'>
+         <name >
+           Firenze
+         </name>
+         <name >
+           Florence
+         </name>
+         <population  year='90'>
+           408403
+         </population>
+       </city>
+     </province>
+     <province id='f0_17673' 
+       name='Umbria'
+       country='f0_268'
+       capital='f0_3305'
+       population='819000'
+       area='8456'>
+       <city id='f0_3305' 
+         country='f0_268'
+         province='f0_17673'
+         longitude='12.2'
+         latitude='43.1'>
+         <name >
+           Perugia
+         </name>
+         <population  year='90'>
+           150576
+         </population>
+       </city>
+     </province>
+     <province id='f0_17675' 
+       name='Marche'
+       country='f0_268'
+       capital='f0_3316'
+       population='1438000'
+       area='9693'>
+       <city id='f0_3316' 
+         country='f0_268'
+         province='f0_17675'
+         longitude='13.28'
+         latitude='43.38'>
+         <name >
+           Ancona
+         </name>
+         <population  year='90'>
+           103268
+         </population>
+       </city>
+     </province>
+     <province id='f0_17677' 
+       name='Lazio'
+       country='f0_268'
+       capital='f0_1544'
+       population='5185000'
+       area='17203'>
+       <city id='f0_1544' 
+         country='f0_268'
+         province='f0_17677'
+         longitude='12.6'
+         latitude='41.8'>
+         <name >
+           Rome
+         </name>
+         <name >
+           Roma
+         </name>
+         <population  year='90'>
+           2791354
+         </population>
+       </city>
+     </province>
+     <province id='f0_17679' 
+       name='Abruzzo'
+       country='f0_268'
+       capital='f0_3479'
+       population='1263000'
+       area='10794'>
+       <city id='f0_3479' 
+         country='f0_268'
+         province='f0_17679'
+         longitude='13.2'
+         latitude='42.24'>
+         <name >
+           LAquila
+         </name>
+       </city>
+     </province>
+     <province id='f0_17681' 
+       name='Molise'
+       country='f0_268'
+       capital='f0_3484'
+       population='332000'
+       area='4438'>
+       <city id='f0_3484' 
+         country='f0_268'
+         province='f0_17681'
+         longitude='14.5'
+         latitude='41.5'>
+         <name >
+           Campobasso
+         </name>
+       </city>
+     </province>
+     <province id='f0_17683' 
+       name='Campania'
+       country='f0_268'
+       capital='f0_3409'
+       population='5709000'
+       area='13595'>
+       <city id='f0_3409' 
+         country='f0_268'
+         province='f0_17683'
+         longitude='14.15'
+         latitude='40.5'>
+         <name >
+           Napoli
+         </name>
+         <name >
+           Napels
+         </name>
+         <population  year='90'>
+           1206013
+         </population>
+       </city>
+     </province>
+     <province id='f0_17685' 
+       name='Puglia'
+       country='f0_268'
+       capital='f0_3337'
+       population='4066000'
+       area='19348'>
+       <city id='f0_3337' 
+         country='f0_268'
+         province='f0_17685'
+         longitude='16.5'
+         latitude='41.8'>
+         <name >
+           Bari
+         </name>
+         <population  year='90'>
+           353032
+         </population>
+       </city>
+     </province>
+     <province id='f0_17687' 
+       name='Basilicata'
+       country='f0_268'
+       capital='f0_3489'
+       population='611000'
+       area='9992'>
+       <city id='f0_3489' 
+         country='f0_268'
+         province='f0_17687'
+         longitude='15.47'
+         latitude='40.4'>
+         <name >
+           Potenza
+         </name>
+       </city>
+     </province>
+     <province id='f0_17689' 
+       name='Calabria'
+       country='f0_268'
+       capital='f0_3358'
+       population='2080000'
+       area='15080'>
+       <city id='f0_3358' 
+         country='f0_268'
+         province='f0_17689'
+         longitude='16.35'
+         latitude='38.55'>
+         <name >
+           Catanzaro
+         </name>
+         <population  year='90'>
+           103802
+         </population>
+       </city>
+     </province>
+     <province id='f0_17691' 
+       name='Sicilia'
+       country='f0_268'
+       capital='f0_3369'
+       population='5025000'
+       area='25709'>
+       <city id='f0_3369' 
+         country='f0_268'
+         province='f0_17691'
+         longitude='13.2'
+         latitude='38.1'>
+         <name >
+           Palermo
+         </name>
+         <population  year='90'>
+           734238
+         </population>
+       </city>
+     </province>
+     <province id='f0_17693' 
+       name='Sardegna'
+       country='f0_268'
+       capital='f0_3390'
+       population='1657000'
+       area='24090'>
+       <city id='f0_3390' 
+         country='f0_268'
+         province='f0_17693'
+         longitude='9.5'
+         latitude='39.15'>
+         <name >
+           Cagliari
+         </name>
+         <population  year='90'>
+           211719
+         </population>
+       </city>
+     </province>
+     <religions  percentage='98'>
+       Roman Catholic
+     </religions>
+     <encompassed 
+       continent='f0_119'
+       percentage='100'/>
+     <border  length='430' country='f0_149'/>
+     <border  length='488' country='f0_213'/>
+     <border  length='3.2' country='f0_244'/>
+     <border  length='39' country='f0_365'/>
+     <border  length='235' country='f0_380'/>
+     <border  length='740' country='f0_404'/>
+   </country>

@@ -1,0 +1,14 @@
+<property key="1">
+<name>Husa</name>
+<star>4</star>
+<type>hotel</type>
+<facility>
+<airport_shuttle>yes</airport_shuttle>
+<spa>yes</spa>
+<pool>no</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Callao</district> 
+<price>70</price>
+<metro>1000</metro>
+</property>

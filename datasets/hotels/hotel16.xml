@@ -1,0 +1,14 @@
+<property key="1">
+<name>Occidental</name>
+<star>2</star>
+<type>hotel</type>
+<facility>
+<airport_shuttle>no</airport_shuttle>
+<spa>no</spa>
+<pool>no</pool>
+<restaurant>no</restaurant>
+</facility>
+<district>Sol</district> 
+<price>50</price>
+<metro>100</metro>
+</property>

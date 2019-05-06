@@ -1,0 +1,14 @@
+<property key="1">
+<name>Orbis</name>
+<star>3</star>
+<type>hotel</type>
+<facility>
+<airport_shuttle>no</airport_shuttle>
+<spa>no</spa>
+<pool>indoor</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Callao</district> 
+<price>80</price>
+<metro>1000</metro>
+</property>

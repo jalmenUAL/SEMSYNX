@@ -1,0 +1,14 @@
+<property key="1">
+<name>melia</name>
+<star>4</star>
+<type>hotel</type>
+<facility>
+<airport_shuttle>no</airport_shuttle>
+<spa>yes</spa>
+<pool>indoor</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Callao</district>
+<price>50</price>
+<metro>1000</metro>
+</property>

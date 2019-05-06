@@ -1,0 +1,14 @@
+<property key="1">
+<name>Fujita</name>
+<star>3</star>
+<type>apartment</type>
+<facility>
+<airport_shuttle>yes</airport_shuttle>
+<spa>yes</spa>
+<pool>outdoor</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Sol</district> 
+<price>90</price>
+<metro>3000</metro>
+</property>

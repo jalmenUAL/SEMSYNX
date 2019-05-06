@@ -1,0 +1,14 @@
+<property key="1">
+<name>Barceló</name>
+<star>3</star>
+<type>hostel</type>
+<facility>
+<airport_shuttle>yes</airport_shuttle>
+<spa>no</spa>
+<pool>outdoor</pool>
+<restaurant>yes</restaurant>
+</facility>
+<district>Cibeles</district> 
+<price>90</price>
+<metro>2000</metro>
+</property>

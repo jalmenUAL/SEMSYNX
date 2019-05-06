@@ -1,0 +1,42 @@
+<country id='f0_385' 
+     name='Spain'
+     capital='f0_1614'
+     population='39181112'
+     datacode='SP'
+     total_area='504750'
+     population_growth='0.16'
+     infant_mortality='6.3'
+     gdp_agri='3.6'
+     gdp_total='565000'
+     inflation='4.3'
+     indep_date='01 01 1492'
+     government='parliamentary monarchy'
+     gdp_ind='33.6'
+     gdp_serv='62.8'
+     car_code='E'>
+     <name >
+       Spain
+     </name>
+     <ethnicgroups  percentage='100'>
+       Mediterranean Nordic
+     </ethnicgroups>
+     <religions  percentage='99'>
+       Roman Catholic
+     </religions>
+     <languages  percentage='17'>
+       Catalan
+     </languages>
+     <languages  percentage='7'>
+       Galician
+     </languages>
+     <languages  percentage='2'>
+       Basque
+     </languages>
+     <encompassed 
+       continent='f0_119'
+       percentage='100'/>
+     <border  length='65' country='f0_144'/>
+     <border  length='623' country='f0_213'/>
+     <border  length='1.2' country='f0_227'/>
+     <border  length='1214' country='f0_344'/>
+   </country>

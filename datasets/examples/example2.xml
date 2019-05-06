@@ -1,0 +1,15 @@
+<example>
+<member id="1">
+<personal_info>
+<name>
+<familyname>Smith</familyname>
+<firstname>John</firstname>
+</name>
+<age>67</age>
+<postal_address>
+<street>Fifth avenue</street>
+<city>NY</city>
+</postal_address>
+</personal_info>
+</member>
+</example>

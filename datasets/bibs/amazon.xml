@@ -1,0 +1,17 @@
+<amazon>
+<book year="2004" isbn="978-0596007645" key="1">
+<author>Elliotte Rusty Harold</author>
+<author> W. Scott Means</author>
+<title>XML in a Nutshell</title>
+<edition>Third Edition</edition>
+<price>$32.96</price>
+<editorial>OReilly</editorial>
+</book>
+<book year="2005" key="2">
+<author>Simon St. Laurent</author>
+<author>Michael James Fitzgerald</author>
+<title>XML Pocket Reference</title>
+<price>$9.81</price>
+<editorial>OReilly</editorial>
+</book>
+</amazon>

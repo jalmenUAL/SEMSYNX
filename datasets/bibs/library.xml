@@ -1,0 +1,26 @@
+<library>
+<book year="2008" key="1">
+<authors>
+<first>Elliotte Harold</first>
+<second> W. Scott Means</second>
+</authors>
+<edition_number>Third Edition</edition_number>
+<format>PaperBack</format>
+<title>XML in a Nutshell</title>
+<publisher>
+<editorial>Springer</editorial>
+<isbn>978-0596007645</isbn>
+</publisher>
+</book>
+<book year="2005" key="2">
+<authors>
+<first>Simon St. Laurent</first>
+<second>Michael James Fitzgerald</second>
+</authors>
+<title>XML Pocket Reference</title>
+<format>Paperback</format>
+<publisher>
+<editorial>OReilly</editorial>
+</publisher>
+</book>
+</library>
